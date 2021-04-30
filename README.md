@@ -6,7 +6,7 @@ we are great
 
 ### third level heading
 
-** this is bold text
+**this is bold text**
 
 _ this is italised text
 
