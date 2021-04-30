@@ -10,6 +10,6 @@ we are great
 
 _this is italised text
 
-[this is my link](https://opensource.com/article/19/9/introduction-markdown)
+[markdown tutorial](https://opensource.com/article/19/9/introduction-markdown)
 
 >this is quotted text
