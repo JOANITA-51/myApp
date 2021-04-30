@@ -8,7 +8,7 @@ we are great
 
 **this is bold text**
 
-_ this is italised text
+_this is italised text_
 
 [markdown tutorial](https://opensource.com/article/19/9/introduction-markdown)
 
