@@ -6,10 +6,10 @@ we are great
 
 ### third level heading
 
-**this is bold text
+** this is bold text
 
-_this is italised text
+_ this is italised text
 
 [markdown tutorial](https://opensource.com/article/19/9/introduction-markdown)
 
->this is quotted text
+> this is quotted text
